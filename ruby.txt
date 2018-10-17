@@ -1,0 +1,6 @@
+ruby
+gem: node.jsのnpmみたいなやつ パッケージを管理するやつ
+Bundler: gemを管理するためのgem
+Bundlerを使用することで bundle install ,bundle updateコマンドを利用できる
+
+gemfile: パッケージとかが記述されているファイル bundle installでgemfileに記載されているパッケージをインストール
